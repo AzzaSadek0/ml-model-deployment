@@ -27,4 +27,4 @@ Thumbs.db
 .env
 
 # Model files and large binaries (recommended to keep out of git)
-model.pkl
+
